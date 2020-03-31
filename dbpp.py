@@ -13,13 +13,13 @@ import re
 import csv
 import datetime
 
-searchQ = "에어비엔비"
-startYear = 2010
-endYear = 2018
+searchQ = ""
+startYear = 
+endYear = 
 
 print("start crawling..")
 
-path = '/Users/chanhee.kang/Desktop/크롤러모음/DBpia크롤러/dbpiacralwer/chromedriver'
+path = 'chromedriver'
 driver = webdriver.Chrome(path)
 xpath = driver.find_element_by_xpath
 
@@ -158,7 +158,7 @@ resultDict = dict(title = titleL,
               date = dateL,
               abstract = abstractL)
 
-fName = "/Users/chanhee.kang/Desktop/{}_{}_{}.csv".format(searchQ, startYear, endYear)
+fName = "{}_{}_{}.csv".format(searchQ, startYear, endYear)
 
 DB = pd.DataFrame(resultDict)
 DB.to_csv(fName)
