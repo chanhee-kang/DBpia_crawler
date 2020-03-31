@@ -1,3 +1,17 @@
-# DBpia_crawler
-DBpia is a database for Korean journal
-searchQ 에 원하는 내용을 입력시킨후 날짜지정을 하신후 실행하시면 됩니다
+## DBpia 디비피아 크롤러
+
+
+### Set up
+First of all, you have to install python packages for this code makes avaliable
+```
+$pip install
+$pip install
+$pip install
+```
+
+### Limitations
+
+
+### Contact
+If you have any requests, please contact: [https://ck992.github.io/](https://ck992.github.io/).
+
