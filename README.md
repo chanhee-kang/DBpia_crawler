@@ -5,7 +5,7 @@
 DBpia 디비피아 크롤러는 파이썬3를 통해 작성되었으며 셀레늄 패키지를 활용하였습니다.<br><br>
 먼저 해당 프로그램을 git clone을 통해 다운로드 해줍니다.
 ```
-$git clone https://github.com/ck992/DBpia_crawler.git
+$git clone https://github.com/chanhee-kang/DBpia_crawler.git
 ```
 그후, 해당 프로그램을 사용하기 위해서는 최신 크롬드라이버가 필요합니다.<br><br>
 크롬드라이버 다운로드는 다음 링크를 통해 설치가 가능합니다. [https://chromedriver.chromium.org/downloads] <br><br>
