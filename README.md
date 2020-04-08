@@ -2,7 +2,7 @@
 국내 논문 서지정보 사이트 DBpia내의 논문제목, 저자, 퍼블리셔, 저널명, 볼륨, 날짜, 초록의 내용을 가져올수 있는 프로그램 입니다.
 
 ### 설치
-DBpia 디비피아 크롤러는 파이썬3를 통해 작성되었으며 셀레늄 패키지를 활용하였습니다.<br><br>
+DBpia 디비피아 크롤러는 파이썬3를 통해 작성되었으며 BeautifulSoup과 셀레늄 패키지를 활용하였습니다.<br><br>
 먼저 해당 프로그램을 git clone을 통해 다운로드 해줍니다.
 ```
 $git clone https://github.com/chanhee-kang/DBpia_crawler.git
