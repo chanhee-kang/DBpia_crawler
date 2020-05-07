@@ -7,7 +7,7 @@ DBpia 디비피아 크롤러는 파이썬3를 통해 작성되었으며 Beautifu
 ```
 $git clone https://github.com/chanhee-kang/DBpia_crawler.git
 ```
-그후, 해당 프로그램을 사용하기 위해서는 최신 크롬드라이버가 필요합니다.<br><br>
+그후, 해당 프로그램을 사용하기 위해서는 자신의 크롬의 버전과 일치하는 크롬드라이버가 필요합니다.<br><br>
 크롬드라이버 다운로드는 다음 링크를 통해 설치가 가능합니다. [https://chromedriver.chromium.org/downloads] <br><br>
 또한, 아나콘다(Anaconda)환경에서 제작되어서 아나콘다내 파이썬 내장 패키지외 추가 패키지를 터미널에서 pip 명령어를통해 설치 해주어야 합니다
 ```
