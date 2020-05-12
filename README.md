@@ -32,6 +32,9 @@ fName = "{}_{}_{}.csv".format(searchQ, startYear, endYear)
 ```
 코드를 실행시켜 주시면 Selenium을 통한 크롤링이 진행됩니다.
 
+### 보안점
+멀티 쓰레딩 추가
+
 ### Contact
 If you have any requests, please contact: [https://ck992.github.io/](https://ck992.github.io/).
 
